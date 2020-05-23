@@ -1,0 +1,23 @@
+p{
+	box-sizing: border-box;
+	color: yellow;
+	background-color: #554433;
+	font-size: 15px;
+	padding-left: 15px;
+
+}
+div{
+	font-family: ariel;
+	font-size: 30px;
+	color: red
+
+}
+.pran{
+font-family: cursive;
+}
+body{
+	background-color: black;
+}
+h1{
+	color: white;
+}
